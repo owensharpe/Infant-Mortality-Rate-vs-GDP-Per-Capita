@@ -5,9 +5,9 @@ By: Owen Sharpe
 
 Date: 11/7/2023
 
-Question 2: What is the relationship between the number of Infant_deaths
-            per 1,000 live births and other demographic factors such as GDP
-            per capita over the years, and how has this relationship evolved??
+Question 2: What is the relationship between infant mortality rate and
+            other demographic factors such as GDP per capita over the years,
+            and how has this relationship evolved??
 """
 
 # import libraries
