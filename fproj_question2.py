@@ -1,7 +1,7 @@
 """
 DS2001: Final Project
 
-By: Neha Lingamallu, Owen Sharpe, and Junseo Yoon
+By: Owen Sharpe
 
 Date: 11/7/2023
 
