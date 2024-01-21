@@ -1,0 +1,12 @@
+Consensus and Limitations 
+
+Consensus:
+i. Based on the data presented, as well as looking at the linear regression graphs, there is some correlation between a country's GDP per capita and their infant mortality rate.
+ii. There seems to be more correlation value for countries with a lesser GDP per capita, meaning a country with less economic prosperity sees a higher infant mortality rate.
+iii. However, this does not mean that these two variables are a direct cause and effect of each other. There could be a wide range of other factors affecting it.
+
+
+Limitations
+i. Measurement errors: mistakes during data collection or recording can introduce inaccuracies.For instance, human error in manual data entry or faulty sensors in data collection devices, like missing digits in certain values.
+ii. Outliers: anomalies or outliers in the dataset can skew statistical analysis and modeling, impacting the generalization of findings, like equitorial guinea, for example.
+iii. Time-dependent data: for time-series data, like our dataset, inconsistencies in timestamps or changes in patterns over time might lead to errors if not handled appropriately.
